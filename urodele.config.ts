@@ -6,7 +6,7 @@ export const config = {
     logInAuthUrl: "",
   },
   head: {
-    title: "沐竹雨博客",
+    title: "muzhuyu",
     brand: "Urodele",
     description: "A self-owned full-static blog system",
   },
